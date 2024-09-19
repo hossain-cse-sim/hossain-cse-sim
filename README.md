@@ -1,3 +1,14 @@
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+<h1 align="center">Hi 👋, I'm Hossain Ibn Masudul Haque</h1>
+<h3 align="center">A passionate Computer Science and Engineering graduate with a relentless drive for innovation and a fervent love for competitive programming</h3>
+<h2>:muscle:About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=cheesits456&style=flat-square"></h2>
+From the moment I delved into the world of coding, I found myself captivated by the exhilarating challenges of competitive programming and coding contests. I thrive in the adrenaline-fueled environment of problem-solving and algorithmic challenges, constantly seeking out new opportunities to push the boundaries of my skills and knowledge.
+With a solid foundation in computer science principles and a knack for finding elegant solutions to complex problems, I am always eager to tackle the next coding challenge head-on. Whether it's optimizing algorithms, designing efficient data structures, or unraveling intricate puzzles, I approach each problem with tenacity and creativity, striving for excellence in every line of code I write.
+But my passion for technology extends beyond the realm of competitive programming. I am deeply intrigued by the endless possibilities that technological innovations hold, and I am committed to leveraging my skills and expertise to contribute meaningfully to the ever-evolving landscape of technology.
+The melodies that dance through the air and the rhythms that pulse through my veins hold a special place in my heart. From soothing symphonies to energetic beats, music serves as a soundtrack to my life, inspiring me, comforting me, and igniting my creativity.
+In the intricate ecosystems of terrariums and paludariums, I find boundless opportunities for creativity and exploration. Crafting miniature landscapes teeming with life allows me to unleash my imagination and indulge my passion for both art and nature.
+Join me as I continue to explore, innovate, and create in pursuit of excellence.
+
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanfoysal&label=Profile%20views&color=0e75b6&style=flat" alt="016" /> </p>
@@ -89,3 +100,7 @@
 - Education: Learning management systems (LMS), curriculum development
 
 - Marketing: SEO/SEM, content marketing
+
+
+
+
